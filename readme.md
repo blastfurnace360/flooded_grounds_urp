@@ -16,3 +16,5 @@ Steps to import -
 notes - 'Flooded Grounds' has a lot of trees which were made with 'tree creator' which uses shaders that don't render in URP. There aren't any replacement shaders so I duplicated the terrain and removed all of the trees in the URP scene. These are nice trees and you can convert them to URP using 'the vegetation engine'.    
 
 Like the 'Sun Temple' conversion, the grass looks strange because it's supposed to use a custom shader. You can't use custom shaders for terrain details in URP easily, but if you have 'nature renderer' it will allow it.   
+
+bonus - I added a unitypackage for the cactus pack which is another asset from Sandro T.
