@@ -6,7 +6,7 @@ There is a great asset in the unity asset store called 'Flooded Grounds' by Sand
 
 Just like I converted the amazing [Sun Temple](https://github.com/blastfurnace360/sun_temple_urp), each of the surface shaders were replaced with shadergraph versions. The 'Flooded Grounds' asset doesn't use as many surface shaders as 'Sun Temple' and a lot of the work was already done after running the unity render pipeline converter.  
 
-Steps to import - 
+Steps to import -  
 1-- using unity hub, create a new URP project  
 2-- import the 'flooded grounds' asset from the asset store - uncheck the box for the 'post processing' folder to avoid an error (URP does not use this post processing anyway)  
 3-- clone this repository and import the unitypackage file into your project (click 'assets' menu, select 'import package' -> 'import custom package', then navigate to the flooded_grounds_URP.unitypackage file)  
